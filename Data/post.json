@@ -1,0 +1,103 @@
+{
+    "posts": {
+        "0": {
+            "id": 1,
+            "title": "Bahaa",
+            "description": "Bahaa is a back end developer",
+            "post_creator": "Bahaa",
+            "comments": [
+                {
+                    "comment_id": 1,
+                    "comment": "Graet",
+                    "name": "Bahaa",
+                    "replies": [
+                        {
+                            "reply_id": 1,
+                            "reply": "Thank you",
+                            "name": "bahaa"
+                        },
+                        {
+                            "reply_id": 2,
+                            "reply": "thanks",
+                            "name": "ahmed"
+                        }
+                    ]
+                },
+                {
+                    "comment_id": 2,
+                    "comment": "Very Nice",
+                    "name": "Ahmed",
+                    "replies": [
+                        {
+                            "reply_id": 1,
+                            "reply": "You are nice",
+                            "name": "ibrahim"
+                        }
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "id": 3,
+            "title": "CSS",
+            "description": "(CSS) is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML",
+            "post_creator": "Mohamed",
+            "comments": [
+                {
+                    "comment_id": 1,
+                    "comment": "CSS is a good language",
+                    "name": "Ahmed",
+                    "replies": [
+                        {
+                            "reply_id": 1,
+                            "reply": "I love PHP",
+                            "name": "Bahaa"
+                        },
+                        {
+                            "reply_id": 2,
+                            "reply": "thanks",
+                            "name": "Ahmed"
+                        }
+                    ]
+                },
+                {
+                    "comment_id": 2,
+                    "comment": "CSS is a nice",
+                    "name": "Ahmed",
+                    "replies": [
+                        {
+                            "reply_id": 1,
+                            "reply": "you are wronge",
+                            "name": "Ahmed"
+                        }
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "id": 4,
+            "title": "HTML",
+            "description": "HTML is the standard markup language for Web pages.\r\n\r\nWith HTML you can create your own Website.\r\n\r\nHTML is easy to learn - You will enjoy it!",
+            "post_creator": "Bahaa",
+            "comments": [
+                {
+                    "comment_id": 1,
+                    "comment": "nice",
+                    "name": "bahaa",
+                    "replies": [
+                        {
+                            "reply_id": 1,
+                            "reply": "i like  PHP",
+                            "name": "Bahaa"
+                        }
+                    ]
+                },
+                {
+                    "comment_id": 2,
+                    "comment": "That is a great post",
+                    "name": "Ibrahim"
+                }
+            ]
+        }
+    }
+}
